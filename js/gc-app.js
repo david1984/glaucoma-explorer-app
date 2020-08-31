@@ -32,21 +32,7 @@
             "img/pview/WeightIcon.png",
             "img/pview/avatar-female.png",
             "img/pview/avatar-male.png",
-            //"img/pview/blueBabyHeightImage.png",
-            //"img/pview/blueChildHeightImage.png",
-            //"img/pview/blueFatherHeightImage.png",
-            //"img/pview/blueTeenHeightImage.png",
-            //"img/pview/blueToddlerHeightImage.png",
-            "img/pview/bmi-icon.png"//,
-            //"img/pview/fatherHeightImage.png",
-            //"img/pview/fatherHeightImageForeign.png",
-            //"img/pview/motherHeightImage.png",
-            //"img/pview/motherHeightImageForeign.png",
-            //"img/pview/pinkBabyHeightImage.png",
-            //"img/pview/pinkChildHeightImage.png",
-            //"img/pview/pinkMotherHeightImage.png",
-            //"img/pview/pinkTeenHeightImage.png",
-            //"img/pview/pinkToddlerHeightImage.png"
+            "img/pview/bmi-icon.png"
         ],
 
         getStartAgeMos,
