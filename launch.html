@@ -9,10 +9,10 @@
     <script src="https://cdn.jsdelivr.net/npm/fhirclient/build/fhir-client.js"></script>
     <script>
       FHIR.oauth2.authorize({
-        "client_id": "397ade23-81e0-4955-8ff3-d367f6a704de",
+        // "client_id": "397ade23-81e0-4955-8ff3-d367f6a704de", // Cerner App launch
+        "client_id": "6c12dff4-24e7-4475-a742-b08972c4ea27", // Epic temporary app launch ID
         "scope":  "patient/Observation.read patient/Patient.read offline_access",
         // "client_id": "944d96a0-4caf-4a96-813e-bc38aadb1169" // HSPC
-        // "client_id": "5570f8be-6caf-4915-ae15-69545ab38e68" // Cerner
       });
     </script>
   </head>
